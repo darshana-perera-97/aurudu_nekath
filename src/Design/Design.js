@@ -1,5 +1,6 @@
 import React from "react";
 import LoadingSc from "./LoadingSc/LoadingSc";
+import Menu from "./Menu/Menu";
 
 export default function Design() {
   const [st, setSt] = React.useState(true);
@@ -9,7 +10,8 @@ export default function Design() {
   return (
     <div>
       {st && <LoadingSc />}
-      {!st && <LoadingSc />}
+      {!st && <Menu />}
+      
     </div>
   );
 }
