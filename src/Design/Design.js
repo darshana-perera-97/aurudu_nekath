@@ -6,7 +6,7 @@ export default function Design() {
   const [st, setSt] = React.useState(true);
   setTimeout(() => {
     setSt(false);
-  }, 100);
+  }, 4000);
   return (
     <div>
       {st && <LoadingSc />}

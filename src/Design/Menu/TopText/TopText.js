@@ -37,6 +37,7 @@ export default function TopText() {
         නැකත් සීට්ටුව
       </p>
       <Content />
+      <p style={{textAlign:"center"}}>Content & Desing by <span style={{fontWeight:"bold"}}>DnD Creations</span></p>
     </div>
   );
 }
