@@ -1,0 +1,88 @@
+@media only screen and (max-width: 3100px) {
+    #topText {
+        font-size: 90px;
+        margin-top: 900px,
+    }
+    #Text {
+        font-weight: bold;
+        font-size: 40px;
+        margin-top: 10px,
+    }
+    
+    
+}
+@media only screen and (max-width: 2400px) {
+    #topText {
+        font-size: 90px;
+    }
+}
+@media only screen and (max-width: 1900px) {
+    #topText {
+        font-size: 75px;
+    }
+}
+@media only screen and (max-width: 1600px) {
+    #topText {
+        font-size: 55px;
+    }
+}
+@media only screen and (max-width: 1300px) {
+    #topText {
+        font-size: 50px;
+    }
+    #Text {
+        font-size: 40px;
+        margin-top: 10px,
+    }
+}
+@media only screen and (max-width: 1000px) {
+    #topText {
+        font-size: 38px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    #topText {
+        font-size: 35px;
+    }
+    #Text {
+        font-weight: bold;
+        font-size: 30px;
+        margin-top: 10px,
+    }
+}
+@media only screen and (max-width: 700px) {
+    #topText {
+        font-size: 30px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    #topText {
+        font-size: 23px;
+    }
+    #Text {
+        font-weight: bold;
+        font-size: 20px;
+        margin-top: -20px,
+    }
+}
+@media only screen and (max-width: 450px) {
+    #topText {
+        font-size: 19px;
+    }
+}
+@media only screen and (max-width: 300px) {
+    #topText {
+        font-size: 15px;
+        margin-bottom: -20px;
+    }
+    #Text {
+        font-weight: bold;
+        font-size: 11px;
+        margin-top: -20px,
+    }
+}
+@media only screen and (max-width: 200px) {
+    #topText {
+        font-size: 12px;
+    }
+}
